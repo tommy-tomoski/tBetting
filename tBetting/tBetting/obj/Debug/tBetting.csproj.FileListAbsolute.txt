@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\tBetting\tBetting\bin\tBetting.dll
+c:\users\user\documents\visual studio 2010\Projects\tBetting\tBetting\bin\tBetting.pdb
+c:\users\user\documents\visual studio 2010\Projects\tBetting\tBetting\obj\Debug\tBetting.dll
+c:\users\user\documents\visual studio 2010\Projects\tBetting\tBetting\obj\Debug\tBetting.pdb
+C:\Users\User\documents\visual studio 2010\Projects\tBetting\tBetting\obj\Debug\tBetting.csprojResolveAssemblyReference.cache
